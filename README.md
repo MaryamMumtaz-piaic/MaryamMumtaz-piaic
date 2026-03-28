@@ -7,7 +7,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-mumtaz-315358361)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamqureshimumtazm.a@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](#)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://maryam-mumtaz.vercel.app/)
   
   <p>🌟 PIAIC Student | Full Stack Developer | AI/Automation Engineer 🌟</p>
   <p>📍 Karachi, Sindh, Pakistan</p>
